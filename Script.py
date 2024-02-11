@@ -1,5 +1,8 @@
 class script(object):
-    START_TXT = """ʜᴇʏ {}, {}\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/TeluguZoneOfc">TELUGUZONE</a>"""
+    START_TXT = """ʜᴇʏ {}, {}\n\n Mʏ Nᴀᴍe Is CinemaXplorers_Bot_Files ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ Movie Search Bot And Advanced Online Watching and Fast Download BOT But No Theatre Prints Available in MY DB So Dont Search Theatre Prints 🤷‍♂️
+
+
+𝙈𝘼𝙄𝙉𝙏𝘼𝙄𝙉𝙀𝘿  𝘽𝙔 : @TeluguZoneOFC 🙃</a>"""
 
     GSTART_TXT = """ʜᴇʏ {},\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/TeluguzoneOfc">TELUGUZONE</a>"""
     

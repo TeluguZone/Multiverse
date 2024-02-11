@@ -1844,7 +1844,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ], [
             InlineKeyboardButton ('• ᴄʀᴇᴅɪᴛꜱ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ •', callback_data='credits'),
         ], [
-            InlineKeyboardButton('• ᴏᴡɴᴇʀ •', user_id=int(6139556802)),
+            InlineKeyboardButton('• ᴏᴡɴᴇʀ •', user_id=int(809614790)),
             InlineKeyboardButton('• ꜱᴛᴀᴛꜱ •', callback_data='stats')
         ], [
             InlineKeyboardButton('🛰️ ʀᴇɴᴅᴇʀɪɴɢ ꜱᴛᴀᴛᴜꜱ ☁️',callback_data='rendr')

@@ -248,7 +248,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 <b> Size ⚙️: {file_size}
 
-JOIN:[TeluguZone](https://t.me/TeluguZoneOFC)</b>"""
+JOIN: [𝙏𝙀𝙇𝙐𝙂𝙐𝙕𝙊𝙉𝙀™](https://t.me/TeluguZoneOFC)</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.

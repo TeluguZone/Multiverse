@@ -29,8 +29,8 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/eb4cc02a7102
 CODE = (environ.get('CODE', 'https://graph.org/file/b2840891b6bfdd8729917.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'tulinks.online'))
-STREAM_API = (environ.get('STREAM_API', '9a81ccb3742f88c6c5493d8859b9ca7c8bbf4347'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'gyanilinks.com'))
+STREAM_API = (environ.get('STREAM_API', 'b9295fa6931a8e5e413d9361922e48007e1251cc'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/howtoopenlinkssri/16'))
 
 # Admins, Channels & Users

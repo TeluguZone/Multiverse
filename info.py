@@ -30,8 +30,8 @@ CODE = (environ.get('CODE', 'https://graph.org/file/b2840891b6bfdd8729917.jpg'))
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'gyanilinks.com'))
-STREAM_API = (environ.get('STREAM_API', 'b9295fa6931a8e5e413d9361922e48007e1251cc'))
-STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/howtoopenlinkssri/16'))
+STREAM_API = (environ.get('STREAM_API', 'f06ec4caec5912479b26cf25171559b2da64b52f'))
+STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/Howtodownload18'))
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
@@ -56,18 +56,18 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'instantearn.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '1502a197c85d59929d50f1cba1d5e6f967d1e962')
-IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'gyanilinks.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'f06ec4caec5912479b26cf25171559b2da64b52f')
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+y3URnRGyizQ3MmM1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/teluguzone0')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+Me0yE-4W2mcyMjE9')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MULTIVERSE_OFCL')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Howtodownload18')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : TeluguZone')
+MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : MULTIVERSE_OFCL')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '')) #Log channel id ( make sure bot is admin )
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/') #Support group link ( make sure bot is admin )
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)

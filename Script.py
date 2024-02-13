@@ -446,5 +446,5 @@ BOT WORKING PROPERLY"""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developer -
 
--Dev [Owner of this bot ]<a href='https://t.me/SUPER_STARR_BOT'>𝙆𝙍𝘼𝙉𝙏𝙄</a>
+-Dev [Owner of this bot ]<a href='https://t.me/SUPER_STARR_BOT'>𝙆𝙍𝘼𝙉𝙏𝙃𝙄</a>
 """
